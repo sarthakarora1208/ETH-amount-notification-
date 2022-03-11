@@ -1,6 +1,6 @@
-# ETH Amount notification
+ETH Amount notification
 
-Video link:- [bit.ly/eth-amount-notification](bit.ly/eth-amount-notification)
+Video link:- [bit.ly/eth-amount-notification](https://bit.ly/eth-amount-notification)
 
 System Architecture
 
